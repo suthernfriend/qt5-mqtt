@@ -2,7 +2,7 @@
 
 pkgname=qt5-mqtt
 _name=qtmqtt
-pkgver=5.12.0
+pkgver=5.12.1
 pkgrel=1
 pkgdesc="Module to implement MQTT protocol v3.1/3.1.1"
 arch=('i386' 'x86_64' 'armv6h' 'armv7h' 'aarch64')
